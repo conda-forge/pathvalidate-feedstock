@@ -38,6 +38,7 @@ Installing `pathvalidate` from the `conda-forge` channel can be achieved by addi
 
 ```
 conda config --add channels conda-forge
+conda config --set channel_priority strict
 ```
 
 Once the `conda-forge` channel has been enabled, `pathvalidate` can be installed with:
