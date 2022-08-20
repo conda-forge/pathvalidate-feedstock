@@ -1,5 +1,5 @@
 {% set name = "pathvalidate" %}
-{% set version = "2.5.1" %}
+{% set version = "2.5.2" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: bbc27e653335aba7935a2ade2299622e76a9487bc9004cdcf1441ce8d2ff4a54
+  sha256: 5ff57d0fabe5ecb7a4f1e4957bfeb5ad8ab5ab4c0fa71f79c6bbc24bd9b7d14d
 
 build:
   number: 0
