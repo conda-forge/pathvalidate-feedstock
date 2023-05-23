@@ -1,11 +1,11 @@
-About pathvalidate
-==================
+About pathvalidate-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pathvalidate-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/thombashi/pathvalidate
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pathvalidate-feedstock/blob/main/LICENSE.txt)
 
 Summary: pathvalidate is a Python library to sanitize/validate a string such as filenames/file-paths/etc.
 
